@@ -1,0 +1,391 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.headers {
+    background: #75ABD4;
+    font-size: 32px;
+    font-family: "MontserratAlternates-Black";
+    color: #fff;
+    width: auto;
+    height: 97px;
+    align-content: center;
+}
+
+@font-face {
+    font-family: "MontserratAlternates-Bold";
+    src: url(MontserratAlternates-Bold.ttf)
+}
+
+@font-face {
+    font-family: "MontserratAlternates-Regular";
+    src: url(MontserratAlternates-Regular.ttf)
+}
+.container {
+    max-width: 2812px;
+    margin: 0 auto;
+}
+.headtext{
+    font-family: 'MontserratAlternates-Bold';
+    margin-left: 80px;
+}
+.satoru{
+    margin-left: 933px;
+}
+
+#text1{
+    margin-left: 78px;
+    margin-top: -350px;
+    font-family: 'MontserratAlternates-Bold';
+    font-size: 48px;
+    color: #000000;
+}
+
+#text2{
+    margin-left: 58px;
+    padding: 20px;
+    font-family: 'MontserratAlternates-Regular';
+    font-size: 36px;
+    color: #000000;
+
+
+}
+#pereiti{
+    font-family: 'MontserratAlternates-Regular';
+    margin-left: 40px;
+    margin-top: 16px;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+.button1{
+    width: 258px;
+    height: 64px;
+    margin-left: 80px;
+    background: #6196BF;
+    border-radius: 10px; 
+    text-align: start;
+}
+
+.kartochki1{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: -100px;
+}
+.kartochki2{
+    display: flex;
+    justify-content: space-around;
+    margin: -90px;
+    margin-left: -200px;
+    margin-top: 50px;
+    padding: 100px;
+    
+}
+#vsetovar{
+    font-family: 'MontserratAlternates-Bold';
+    font-size: 48px;
+    top: 100px;
+    margin-left: 75px;
+    width: 326px;
+    height: 59px;
+
+    color: #000000;
+}
+.kartimg{
+    width: 308px;
+    height: 490px;
+}
+.osnova{
+    margin-top: 125px;
+    background-color: #E7F4FF;
+    width: 1900px;
+    height: 3500px;
+}
+
+
+.karttxt{
+    margin-top: -52px;
+    margin-left: 10px; 
+    font-family: MontserratAlternates-Regular;
+}
+#cena{
+    font-size: 32px;
+    margin-top: 30px;
+}
+#opis{
+    font-size: 15px;
+
+}
+
+
+#vkarz{
+    color: black;
+    margin-left: 90px;
+    margin-top: 8px; 
+    font-family: MontserratAlternates-Regular;
+    font-size: 24px;
+}
+.karz{
+    width: 308px;
+    height: 46px;
+    border: 1px solid #6196BF;
+    border-radius: 10px;
+    margin-top: 20px;
+
+
+}
+.karta{
+    background: white;
+
+    width: 308px;
+    height: 614px;
+    left: 870px;
+    border-radius: 10px;
+    
+
+    display: flex;  
+    flex-direction: column; 
+    justify-content: space-between; 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.info{
+
+    margin-left: 80px;
+}
+#onas{
+
+    font-size: 48px;
+    font-family: MontserratAlternates-Bold;
+    padding: 30px;
+    margin-left: -30px;
+}
+.infotxt{
+    font-size: 32px;
+    font-family: MontserratAlternates-Regular;
+    width: 1184px;
+    padding: 20px;
+    margin-left: -20px;
+}
+.button2{
+
+    background-color: #6196BF;
+    width: 258px;
+    height: 64px;
+    border-radius: 10px;
+    top: 100px;
+    
+}
+
+#podrob{
+
+    color: white;
+    font-size: 36px;
+    font-family: MontserratAlternates-Regular;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+
+
+.otzivi{
+    margin-top: 100px;
+    margin-left: -100px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+#otziv1{
+
+    border: 1px solid #6196BF;
+    border-radius: 10px;
+    background-color: white;
+    width: 637px;
+    height: 257px;
+}
+#avatar1{
+    
+
+    width: 55px;
+    height: 55px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#nick{
+
+    margin-top: -35px;
+    margin-left: 80px;
+}
+#star1{
+
+    margin-top: -65px;
+    margin-left: 500px;
+}
+#osnovnoi{
+
+    font-size: 20px;
+    font-family: MontserratAlternates-Regular;
+    width: 581px;
+    text-align: center;
+    margin-top: 90px;
+    
+}
+#otziv{
+    font-size: 50px;
+    margin-left: 76px;
+    margin-top: 30px;
+}
+
+#otziv2{
+    border: 1px solid #6196BF;
+    border-radius: 10px;
+    background-color: white;
+    width: 637px;
+    height: 257px;
+}
+
+
+
+#avatar2{
+    
+
+    width: 55px;
+    height: 55px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#nick{
+
+    margin-top: -35px;
+    margin-left: 80px;
+}
+#star1{
+
+    margin-top: -65px;
+    margin-left: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: #75ABD4;
+    width: 2000px;
+    margin-top: 100px;
+    height: 200px;
+}
+#textpodval{
+
+    font-size: 32px;
+    font-family: 'MontserratAlternates-Bold';
+    color: #fff;
+    align-content: center;
+    margin-left: 85px;
+    margin-top: 30px;
+
+}
+#kategor{
+
+    font-size: 20px;
+    font-family: 'MontserratAlternates-Bold';
+    color: white;
+    padding: 10px;
+    margin-left: 400px;
+}
+.padvalinfo{
+
+    font-family: 'MontserratAlternates-Bold';
+    color: white;
+
+    margin-top: -160px;
+    margin-left: 755px;
+}
+#txtpadv{
+    font-family: MontserratAlternates-Regular;
+    font-size: 15px;
+}
+#number{
+    font-family: 'MontserratAlternates-Bold';
+    font-size: 20px;
+
+}
+.mess{
+
+    width: 55px;
+    height: 55px;
+    
+
+}
+.messeger{
+    margin-top:  -50px;
+    margin-left: 1300px;
+}
+.kategoria{
+    margin-top: -40px;
+}
+
+.zakaz{
+    font-family: 'MontserratAlternates-Bold';
+    font-size: 48px;
+}
+.dosttxt{
+    font-family: MontserratAlternates-Regular;
+    font-size: 32px;
+}
+input{
+    border: 1px solid #6196BF;
+    width: 635px;
+    height: 52px;
+    border-radius: 10px;
+    font-size: 24px;
+    font-family: MontserratAlternates-Regular;
+}
+.dostavka{
+    margin-left: 80px;
+}
+.button3{
+
+    background-color: #6196BF;
+    border-radius: 10px;
+    width: 199px;
+    height: 49px;
+}
+.zakazat{
+   font-size: 36px;
+   font-family: MontserratAlternates-Regular; 
+   color: white;
+}
+.narotodost{
+    width: 486px;
+    height: 688px;
+    margin-left: 1100px;
+    margin-top: -650px;
+}
